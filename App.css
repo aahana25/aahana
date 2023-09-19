@@ -1,0 +1,39 @@
+.whetherBg
+{
+   background: url("https://wallpapercave.com/wp/IeFORpa.jpg");
+   height: 50vh;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content: center;
+}
+.heading{
+  font-weight:700;
+}
+.whetherResultBox
+{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.whethericon
+{
+  margin-top: 2rem;
+  margin-left: 12rem;
+  width: 100px;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+}
+.weatherCity {
+  font-size: 35px;
+  text-align: center; /* Center the text horizontally */
+  
+}
+
+.weatherTemperature {
+  font-size: 45px;
+  text-align: center; /* Center the text horizontally */
+  
+}
+
